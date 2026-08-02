@@ -3,6 +3,8 @@ layout: default
 title: Prawa autorskie i licencje
 ---
 
+<!-- document-version: 1 -->
+
 # Prawa autorskie i licencje — Monitor aktualizacji dla Insert
 
 **Data aktualizacji:** 02.08.2026  

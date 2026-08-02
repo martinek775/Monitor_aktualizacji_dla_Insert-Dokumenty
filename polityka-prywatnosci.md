@@ -3,6 +3,8 @@ layout: default
 title: Polityka prywatności
 ---
 
+<!-- document-version: 1 -->
+
 # Polityka prywatności — Monitor aktualizacji dla Insert
 
 **Data obowiązywania:** 02.08.2026  

@@ -3,6 +3,8 @@ layout: default
 title: Warunki użytkowania
 ---
 
+<!-- document-version: 1 -->
+
 # Warunki użytkowania — Monitor aktualizacji dla Insert
 
 **Data obowiązywania:** 02.08.2026  
