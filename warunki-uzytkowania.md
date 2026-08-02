@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Warunki uĹĽytkowania
+title: Warunki użytkowania
 ---
 
 # Warunki użytkowania — Monitor aktualizacji dla Insert
