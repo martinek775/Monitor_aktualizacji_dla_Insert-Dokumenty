@@ -5,7 +5,6 @@ title: Warunki użytkowania
 
 # Warunki użytkowania — Monitor aktualizacji dla Insert
 
-**Wersja warunków:** 1  
 **Data obowiązywania:** 02.08.2026  
 **Autor / usługodawca:** Marcin Wiktorowski  
 **Kontakt:** marcin.wiktorowski.dev@gmail.com  
