@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Polityka prywatności
+title: Polityka prywatnoĹ›ci
 ---
 
 # Polityka prywatności — Monitor aktualizacji dla Insert
