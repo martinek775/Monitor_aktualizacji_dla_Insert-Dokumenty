@@ -8,7 +8,7 @@ title: Warunki użytkowania
 **Wersja warunków:** 1  
 **Data obowiązywania:** 02.08.2026  
 **Autor / usługodawca:** Marcin Wiktorowski  
-**Kontakt:** (tu wstaw adres e-mail dev)  
+**Kontakt:** marcin.wiktorowski.dev@gmail.com  
 **Publiczny adres dokumentu:** https://martinek775.github.io/Monitor_aktualizacji_dla_Insert-Dokumenty/warunki-uzytkowania.html
 
 ## 1. Akceptacja warunków
@@ -53,4 +53,4 @@ Warunki mogą zostać zmienione wyłącznie z ważnych przyczyn, takich jak zmia
 
 ## 9. Kontakt
 
-Pytania dotyczące Aplikacji lub warunków można przesłać na adres: (tu wstaw adres e-mail dev).
+Pytania dotyczące Aplikacji lub warunków można przesłać na adres: marcin.wiktorowski.dev@gmail.com.

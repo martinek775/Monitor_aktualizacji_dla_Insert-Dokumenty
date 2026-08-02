@@ -7,7 +7,7 @@ title: Polityka prywatności
 
 **Data obowiązywania:** 02.08.2026  
 **Administrator danych:** Marcin Wiktorowski  
-**Kontakt w sprawach prywatności:** (tu wstaw adres e-mail dev)  
+**Kontakt w sprawach prywatności:** marcin.wiktorowski.dev@gmail.com  
 **Kraj zamieszkania administratora:** Polska
 
 ## 1. Zakres tej polityki
@@ -28,9 +28,9 @@ Aplikacja może otworzyć w zewnętrznej przeglądarce stronę projektu na GitHu
 
 Linki do polityk zewnętrznych usług:
 
-- InsERT: https://www.insert.com.pl/polityka_prywatnosci.html
-- GitHub: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
-- Suppi: https://suppi.pl/polityka_prywatnosci
+- InsERT: <a href="https://www.insert.com.pl/polityka_prywatnosci.html" target="_blank" rel="noopener">Polityka prywatności InsERT</a>
+- GitHub: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Polityka prywatności GitHub</a>
+- Suppi: <a href="https://suppi.pl/polityka_prywatnosci" target="_blank" rel="noopener">Polityka prywatności Suppi</a>
 
 ## 4. Cel i podstawa przetwarzania
 
