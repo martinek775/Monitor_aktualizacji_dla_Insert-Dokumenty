@@ -56,4 +56,4 @@ Administrator nie podejmuje wobec użytkowników zautomatyzowanych decyzji, w ty
 
 ## 9. Zmiany dokumentu
 
-Polityka może zostać zaktualizowana, gdy zmieni się działanie Aplikacji albo wymagania prawne. Aktualna wersja jest dostępna na stronie: <a href="https://martinek775.github.io/Monitor_wersji_Insert-Dokumenty/polityka-prywatnosci.html" target="_blank" rel="noopener">Polityka prywatności</a>.
+Polityka może zostać zaktualizowana, gdy zmieni się działanie Aplikacji albo wymagania prawne. Aktualna wersja jest dostępna na stronie: <a href="https://martinek775.github.io/Monitor_wersji_Insert_Dokumenty/polityka-prywatnosci.html" target="_blank" rel="noopener">Polityka prywatności</a>.
