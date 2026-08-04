@@ -5,9 +5,9 @@ title: Prawa autorskie i licencje
 
 <!-- document-version: 1 -->
 
-# Prawa autorskie i licencje — Monitor aktualizacji dla Insert
+# Prawa autorskie i licencje — Monitor wersji Insert
 
-**Data aktualizacji:** 02.08.2026  
+**Data aktualizacji:** 02.08.2026
 **Właściciel praw do własnych elementów Aplikacji:** Marcin Wiktorowski
 
 ## Własne elementy Aplikacji

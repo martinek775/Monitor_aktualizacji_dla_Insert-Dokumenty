@@ -5,11 +5,11 @@ title: Warunki użytkowania
 
 <!-- document-version: 1 -->
 
-# Warunki użytkowania — Monitor aktualizacji dla Insert
+# Warunki użytkowania — Monitor wersji Insert
 
-**Data obowiązywania:** 02.08.2026  
-**Autor / usługodawca:** Marcin Wiktorowski  
-**Kontakt:** marcin.wiktorowski.dev@gmail.com  
+**Data obowiązywania:** 02.08.2026
+**Autor / usługodawca:** Marcin Wiktorowski
+**Kontakt:** marcin.wiktorowski.dev@gmail.com
 **Publiczny adres dokumentu:** <a href="https://martinek775.github.io/Monitor_aktualizacji_dla_Insert-Dokumenty/warunki-uzytkowania.html" target="_blank" rel="noopener">Warunki użytkowania</a>
 
 ## 1. Akceptacja warunków
@@ -18,7 +18,7 @@ Korzystanie z Aplikacji wymaga akceptacji aktualnej wersji tych warunków. Przy 
 
 ## 2. Charakter i zakres Aplikacji
 
-„Monitor aktualizacji dla Insert” jest bezpłatnym, niezależnym narzędziem pomocniczym do kontrolowania wersji wybranych programów. Nie jest oficjalnym produktem firmy InsERT ani nie działa w jej imieniu.
+„Monitor wersji Insert” jest bezpłatnym, niezależnym narzędziem pomocniczym do kontrolowania wersji wybranych programów. Nie jest oficjalnym produktem firmy InsERT ani nie działa w jej imieniu.
 
 Aplikacja nie instaluje aktualizacji programów i nie zastępuje informacji producenta. Użytkownik sam podejmuje decyzję o aktualizacji oraz odpowiada za wykonanie kopii zapasowej i sprawdzenie zgodności aktualizacji ze swoim środowiskiem.
 

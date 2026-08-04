@@ -5,16 +5,16 @@ title: Polityka prywatności
 
 <!-- document-version: 1 -->
 
-# Polityka prywatności — Monitor aktualizacji dla Insert
+# Polityka prywatności — Monitor wersji Insert
 
-**Data obowiązywania:** 02.08.2026  
-**Administrator danych:** Marcin Wiktorowski  
-**Kontakt w sprawach prywatności:** marcin.wiktorowski.dev@gmail.com  
+**Data obowiązywania:** 02.08.2026
+**Administrator danych:** Marcin Wiktorowski
+**Kontakt w sprawach prywatności:** marcin.wiktorowski.dev@gmail.com
 **Kraj zamieszkania administratora:** Polska
 
 ## 1. Zakres tej polityki
 
-Dokument opisuje działanie aplikacji „Monitor aktualizacji dla Insert” („Aplikacja”). Aplikacja jest niezależnym narzędziem i nie jest oficjalnym produktem firmy InsERT.
+Dokument opisuje działanie aplikacji „Monitor wersji Insert” („Aplikacja”). Aplikacja jest niezależnym narzędziem i nie jest oficjalnym produktem firmy InsERT.
 
 ## 2. Dane przechowywane przez Aplikację
 
