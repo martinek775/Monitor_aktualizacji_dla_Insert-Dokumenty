@@ -3,7 +3,7 @@ layout: default
 title: Dokumenty aplikacji
 ---
 
-# Monitor aktualizacji dla Insert
+# Monitor wersji Insert
 
 Oficjalne dokumenty aplikacji.
 

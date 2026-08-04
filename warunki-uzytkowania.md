@@ -10,7 +10,7 @@ title: Warunki użytkowania
 **Data obowiązywania:** 02.08.2026
 **Autor / usługodawca:** Marcin Wiktorowski
 **Kontakt:** marcin.wiktorowski.dev@gmail.com
-**Publiczny adres dokumentu:** <a href="https://martinek775.github.io/Monitor_aktualizacji_dla_Insert-Dokumenty/warunki-uzytkowania.html" target="_blank" rel="noopener">Warunki użytkowania</a>
+**Publiczny adres dokumentu:** <a href="https://martinek775.github.io/Monitor_wersji_Insert-Dokumenty/warunki-uzytkowania.html" target="_blank" rel="noopener">Warunki użytkowania</a>
 
 ## 1. Akceptacja warunków
 
@@ -42,7 +42,7 @@ Wsparcie dostępne przez link do serwisu Suppi jest w pełni dobrowolne. Nie jes
 
 Kod, układ, własne grafiki i pozostałe autorskie elementy Aplikacji są chronione prawem autorskim i pozostają własnością autora: Marcin Wiktorowski.
 
-Nazwy programów, nazwy handlowe i znaki towarowe należą do ich właściwych właścicieli. Ich użycie w Aplikacji służy wyłącznie identyfikacji monitorowanych programów. Aplikacja zawiera również komponenty open source, których licencje są opisane w osobnym zestawieniu: <a href="https://martinek775.github.io/Monitor_aktualizacji_dla_Insert-Dokumenty/prawa-autorskie-i-licencje.html" target="_blank" rel="noopener">Prawa autorskie i licencje</a>.
+Nazwy programów, nazwy handlowe i znaki towarowe należą do ich właściwych właścicieli. Ich użycie w Aplikacji służy wyłącznie identyfikacji monitorowanych programów. Aplikacja zawiera również komponenty open source, których licencje są opisane w osobnym zestawieniu: <a href="https://martinek775.github.io/Monitor_wersji_Insert-Dokumenty/prawa-autorskie-i-licencje.html" target="_blank" rel="noopener">Prawa autorskie i licencje</a>.
 
 ## 7. Odpowiedzialność i prawa użytkownika
 
